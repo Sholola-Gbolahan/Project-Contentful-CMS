@@ -3,8 +3,6 @@ import { useFetchProjects } from "./fetchProjects"
 
 const Projects = () => {
   const { isLoading, projects } = useFetchProjects()
-  console.log(isLoading, projects)
-
   if (isLoading) {
     return (
       <section className="projects">
