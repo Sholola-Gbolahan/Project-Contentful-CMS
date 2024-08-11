@@ -24,6 +24,7 @@ Setup Hero component.
 #### Data
 
 Explore data.js
+ 
 
 #### Headless CMS
 
@@ -43,8 +44,10 @@ Setup content type and create few entries
 
 Get Space ID, Access Token and explore code examples.
 
-Space ID -
-Access Token -
+Space ID - 21mr5uy6q5fg
+Access Token - A_IhglAGIOuJg4gT8wUCBM0c018ZsQkgWwFbl7bVqQo
+
+
 
 #### Install SDK
 
